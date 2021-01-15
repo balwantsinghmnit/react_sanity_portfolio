@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-<a href="http://balwantsinghmnit.github.io/react_sanity_portfolio" target="_blank">Watch Live</a>
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
